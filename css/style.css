@@ -39,7 +39,7 @@ body {
 
 nav{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     /* padding: 20px 0; */
     color: rgb(255, 255, 255);
     height: 50px;
@@ -55,6 +55,7 @@ nav ul{
     display: flex;
     list-style: none;
     width: 40%;
+    
     justify-content: space-between;
 }
 nav ul li a{
