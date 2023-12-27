@@ -202,7 +202,7 @@ nav ul li a:hover{
     background: darkgreen;
     border-radius: 40px;
     font-size: 16px;
-    color: #081b29;
+    color: #fff;
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;
@@ -294,7 +294,7 @@ nav ul li a:hover{
 }
 .services-list div a{
     text-decoration: none;
-    color: #000000;
+    color: #fff;
     font-size: 12px;
     margin-top: 20px;
     display: inline-block;
@@ -305,7 +305,7 @@ nav ul li a:hover{
     background: darkgreen;
     border-radius: 40px;
     font-size: 16px;
-    color: #081b29;
+    color: #fff;
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;
@@ -387,7 +387,7 @@ nav ul li a:hover{
     border: 2px solid darkgreen;
     border-radius: 50%;
     font-size: 20px;
-    color: darkgreen;
+    color: white;
     text-decoration: none;
     margin: 30px 15px 30px 0;
     transition: .5s ease;
@@ -427,7 +427,7 @@ nav ul li a:hover{
     background: darkgreen;
     border-radius: 40px;
     font-size: 18px;
-    color: #081b29;
+    color: #fff;
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;
@@ -449,7 +449,7 @@ nav ul li a:hover{
     color: #b3b3b3f7;
     text-align: center;
     padding: 2px 0;
-    background: rgb(37, 35, 35);
+    background: #fff;
     font-weight: 300;
     margin-top: 70px;
 }
