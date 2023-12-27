@@ -151,7 +151,7 @@ nav ul li a:hover{
 }
 
 .home-content h3 span {
-    color: #0ef;
+    color: orange;
 }
 
 .home-content h1 {
@@ -177,7 +177,7 @@ nav ul li a:hover{
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #0ef;
+    border: 2px solid orange;
     border-radius: 50%;
     font-size: 20px;
     color: #fff;
@@ -199,7 +199,7 @@ nav ul li a:hover{
 .btn-box {
     display: inline-block;
     padding: 12px 20px;
-    background: #0ef;
+    background: orange;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -209,14 +209,14 @@ nav ul li a:hover{
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px #0ef,
-        0 0 25px #0ef
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange
 }
 
 .btn-box:hover {
-    box-shadow: 0 0 5px cyan,
-        0 0 25px cyan, 0 0 50px cyan,
-        0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange, 0 0 50px orange,
+        0 0 100px orange, 0 0 200px orange;
 }
 .about{
     display: grid;
@@ -234,7 +234,7 @@ nav ul li a:hover{
     font-size: 60px;
 }
 .about-text h2 span{
-    color: #0ef;
+    color: orange;
 }
 .about-text h4{
     font-size: 27px;
@@ -261,7 +261,7 @@ nav ul li a:hover{
     padding-bottom: 70px;
 }
 .sub-title span{
-   color: #0ef;
+   color: orange;
 }
 .container {
     padding: 60px;
@@ -280,8 +280,8 @@ nav ul li a:hover{
     border-right: 10px;
     border-radius: 20px;
     transition: background 0.5s, transform 0.5s;
-    box-shadow: 1px 1px 20px #012290f7,
-              1px 1px 40px #0053b8f7;
+    box-shadow: 1px 1px 20px orangered,
+              1px 1px 40px orange;
 }
 .services-list div i {
     font-size: 50px;
@@ -302,7 +302,7 @@ nav ul li a:hover{
 .read {
     display: inline-block;
     padding: 12px 28px;
-    background: #0ef;
+    background: orange;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -312,13 +312,13 @@ nav ul li a:hover{
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px #0ef,
-        0 0 25px #0ef
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange
 }
 .read:hover {
-    box-shadow: 0 0 5px cyan,
-        0 0 25px cyan, 0 0 50px cyan,
-        0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange, 0 0 50px orange,
+        0 0 100px orange, 0 0 200px orange;
 }
 .services-list div:hover{
     transform: translateY(-10px);
@@ -338,7 +338,7 @@ nav ul li a:hover{
     text-align: center;
 }
 .contact-text h2 span{
-    color: #0ef;
+    color: orange;
 
 }
 .contact-text h4{
@@ -368,14 +368,14 @@ nav ul li a:hover{
 }
 .contact-list i{
     display: inline-block;
-    color: #0ef;
+    color: orange;
     font-size: 20px;
     font-weight: 600;
     transition: all .40s ease;
 }
 .contact-list li a:hover{
     transform: scale(1.01) translateY(-5px);
-    color: #0ef;
+    color: orange;
 }
 .contact-icons i{
     display: inline-flex;
@@ -384,10 +384,10 @@ nav ul li a:hover{
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #0ef;
+    border: 2px solid orange;
     border-radius: 50%;
     font-size: 20px;
-    color: #0ef;
+    color: orange;
     text-decoration: none;
     margin: 30px 15px 30px 0;
     transition: .5s ease;
@@ -396,9 +396,9 @@ nav ul li a:hover{
     animation-delay: calc(.2s *var(--i));
 }
 .contact-icons i:hover{
-    background: #0ef;
+    background: orange;
     color: #000;
-    box-shadow: 0 0 20px #0ef;
+    box-shadow: 0 0 20px orange;
 }
 
 .contact-form form{
@@ -424,7 +424,7 @@ nav ul li a:hover{
 .contact-form form .send{
     display: inline-block;
     padding: 14px 60px;
-    background: #0ef;
+    background: orange;
     border-radius: 40px;
     font-size: 18px;
     color: #081b29;
@@ -434,14 +434,14 @@ nav ul li a:hover{
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px #0ef,
-        0 0 25px #0ef
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange
 }
 
 .contact-form form .send:hover {
-    box-shadow: 0 0 5px cyan,
-        0 0 25px cyan, 0 0 50px cyan,
-        0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px orange,
+        0 0 25px orange, 0 0 50px orange,
+        0 0 100px orange, 0 0 200px orange;
 }
 .last-text p{
     width: 100%;
@@ -460,7 +460,7 @@ nav ul li a:hover{
 }
 .top i {
     color: #000;
-    background: #0ef;
+    background: orange;
     font-size: 20px;
     padding: 10px;
     border-radius: 0.5rem;
